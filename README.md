@@ -23,6 +23,8 @@ Data Preprocessing and 5-fold crossvalidation testing of models require more ram
 
 
 Colab for final results here:
-https://colab.research.google.com/drive/1ONzc62HA0PUMslJeZIPK0v4tAnVIfrM6?usp=sharing
+[https://colab.research.google.com/drive/1ONzc62HA0PUMslJeZIPK0v4tAnVIfrM6?usp=sharing](https://colab.research.google.com/drive/1QK96xC11zFe4yfMS0JHHmUxm_52O1aKj?usp=sharing)
 
-Please note: the Colab only uses the processed data and does 5-fold cross validation and runs the LGBM model with tuned parameters. We cannot have everything in the colab as it reaches out of memory when pre-processing.
+Please note: the Colab only uses the processed data and does 5-fold cross validation and runs the LGBM model with tuned parameters.Also it runs the Deeplearning models.
+
+We cannot have everything in the colab as it reaches out of memory when pre-processing.
